@@ -1,0 +1,81 @@
+﻿编号,资源名称,访问链接,资源类型,管理机构,数据规模,主要覆盖,许可/成本,优先级
+1,Dictionary of Art Historians (Duke),https://arthistorians.info/,学者传记库,Duke University,1000+学者传记,全球艺术史学者,CC BY-SA 4.0/免费,1
+2,Dizionario Biografico degli Italiani (Treccani),https://www.treccani.it/biografico/,学者传记库,Treccani,"40,000+传记",意大利学者,CC许可/完全免费,1
+3,VIAF (Virtual International Authority File),https://viaf.org/,学者规范档,OCLC,数百万人物,全球57+国家,CC许可/免费,1
+4,GND (Gemeinsame Normdatei),https://www.dnb.de/gnd,学者规范档,German National Library,数百万档案,德语学者,开放/免费,1
+5,Wikidata - 学者与机构条目,https://query.wikidata.org/,知识图谱,Wikimedia,数千万条目,多语言学者,CC0/免费,1
+6,Getty Vocabularies - AAT,http://vocab.getty.edu/aat/,艺术术语,Getty Trust,100K+术语,艺术术语国际,开放/免费,1
+7,Getty Vocabularies - ULAN,http://vocab.getty.edu/ulan/,人名规范,Getty Trust,100K+艺术家,全球艺术家,开放/免费,1
+8,Getty Vocabularies - TGN,http://vocab.getty.edu/tgn/,地名规范,Getty Trust,100K+地点,全球地点,开放/免费,1
+9,Nuovo Liruti - Friuli传记数据库(LOD),https://nuovliruti.uniud.it/,地区传记库,University of Udine,"2,000+传记",Friuli地区,CC许可/开放,1
+10,Accademia della Crusca学者档案,https://www.accademiadellacrusca.it/,学者档案,Accademia della Crusca,"1,500+成员",文艺复兴,部分开放,1
+11,Semantic Scholar Academic Graph API,https://api.semanticscholar.org/,学术论文API,Allen Institute for AI,200M+论文,多学科论文,限速/免费,2
+12,OpenAlex API,https://docs.openalex.org/,学术论文API,OurResearch,260M+作品,全球学术,CC0/免费,2
+13,CrossRef API,https://api.crossref.org/,学术元数据,CrossRef,数百万DOI,DOI引用,CC0/免费,2
+14,JSTOR Data for Research,https://www.jstor.org/dfr/,学术全文,JSTOR Inc.,全文JSTOR,艺术史期刊,订阅/数据导出,2
+15,Web of Science API,https://developer.clarivate.com/apis/wos,学术引用索引,Clarivate,引用索引,艺术人文,API订阅,2
+16,Scopus API,https://dev.elsevier.com/scopus.html,学术引用索引,Elsevier,引用索引,艺术人文,API订阅,2
+17,arXiv.org,https://arxiv.org/,预印本库,Cornell University,200万+预印本,STEM+人文,CC许可/免费,2
+18,Google Scholar,https://scholar.google.com/,学术搜索,Google,索引,综合学术,免费,2
+19,Unpaywall,https://unpaywall.org/,开放获取,Unpaywall,200万+,开放获取,开放/免费,2
+20,PubMed Central,https://www.ncbi.nlm.nih.gov/pmc/,生物医学,NIH,3000万+,生物医学,CC许可/免费,2
+21,Wikidata SPARQL查询服务,https://query.wikidata.org/,知识图谱SPARQL,Wikimedia,100M+三元组,知识关系,CC0/免费,3
+22,DBpedia SPARQL,https://dbpedia.org/sparql,知识图谱SPARQL,DBpedia Community,5000万+条,百科知识,CC-BY-SA/免费,3
+23,RKD Knowledge Graph (Netherlands),https://rkd.triply.cc/,艺术知识图谱,Rijksmuseum,100K+艺术,荷兰艺术,CC许可,3
+24,British Museum SPARQL端点,https://collection.britishmuseum.org/sparql,知识库SPARQL,British Museum,RDF知识库,英国艺术,RDF开放,3
+25,CIDOC-CRM本体标准,http://www.cidoc-crm.org/,本体标准,ICOM/CIDOC,标准本体,文化遗产,标准,3
+26,Linked Open Data (LOD云),https://www.w3.org/wiki/LinkedData,LOD,W3C,LOD聚合,链接数据,开放,3
+27,SKOS标准,https://www.w3.org/TR/skos-reference/,标准,W3C,标准,知识组织,标准,3
+28,OWL标准,https://www.w3.org/OWL/,标准,W3C,标准,本体论,标准,3
+29,SPARQL协议标准,https://www.w3.org/TR/sparql11-query/,SPARQL标准,W3C,标准,查询语言,标准,3
+30,Europeana Linked Data,https://www.europeana.eu/portal/,链接数据,Europeana,百万级,欧洲,开放,3
+31,Rijksmuseum Object Metadata API,https://data.rijksmuseum.nl/,艺术品API,Rijksmuseum,700K+艺术品,欧洲艺术,免费API,4
+32,Europeana Collections API,https://api.europeana.eu/,艺术品API,Europeana Foundation,数千万,欧洲文化,免费API,4
+33,Smithsonian OpenAccess API,https://api.si.edu/,艺术品API,Smithsonian,2.8M CC0,美国博物馆,CC0/免费,4
+34,The Metropolitan Museum Collection API,https://collectionapi.metmuseum.org/public/collection/v1/,艺术品API,The Met,375K+,美国艺术,CC0部分,4
+35,Art Institute of Chicago API,https://api.artic.edu/docs/,艺术品API,Art Institute Chicago,50K+,美国艺术,部分CC0,4
+36,Cleveland Museum of Art API,https://openaccess-api.clevelandart.org/,艺术品API,Cleveland Museum,30K+,美国艺术,部分CC0,4
+37,Walters Art Museum API,https://api.thewalters.org/,艺术品API,Walters Museum,12K+,美国艺术,混合,4
+38,National Gallery of Art (Washington),https://www.nga.gov/artworks/free-images-and-open-access,开放获取,National Gallery,500K+公域,美国公域,公开域,4
+39,Tate Collection CSV,https://github.com/tategallery/collection,数据集CSV,Tate,65K+作品,英国艺术,CC许可,4
+40,MoMA Collection CSV,https://github.com/MuseumofModernArt/collection,数据集CSV,MoMA,200K+作品,美国艺术,CC许可,4
+41,Fondazione Roberto Longhi - 主站,https://www.fondazionelonghi.it/,档案库,Fondazione Longhi,278盒+70K照片,意大利艺术,预约/免费,5
+42,Fondazione Roberto Longhi - 在线档案检索,http://fondazionelonghi.ddns.net:8000/archivio/,在线档案检索,Fondazione Longhi,部分在线,意大利艺术,在线/部分限,5
+43,Archivio Longhi (ARTchives),http://artchives.fondazionezeri.unibo.it/,档案库,Fondazione Longhi + Alma,70K+照片,意大利档案,Open Access,5
+44,Fondazione Federico Zeri - Zeri&LODE,https://data.fondazionezeri.unibo.it/,LOD档案,Fondazione Zeri,500K+照片RDF,意大利艺术,CC许可/开放,5
+45,Fondazione Federico Zeri - SPARQL端点,https://data.fondazionezeri.unibo.it/sparql,SPARQL端点,Fondazione Zeri,500K+照片,意大利,开放,5
+46,ArCo - Italian Cultural Heritage Knowledge Graph,https://arco.istc.cnr.it/,知识图谱,Italian Ministry of Culture,169M RDF,意大利文化,CC许可/开放,5
+47,CulturaItalia - 意大利文化遗产门户,https://www.culturaitalia.it/,文化门户,Italian Ministry,数百万,意大利遗产,CC许可,5
+48,I Musei Italiani,https://imuseiitaliani.beniculturali.it/,博物馆系统,MiC,5000+机构,意大利,CC0为主,5
+49,Linked Open Data Platform (dati.culturaitalia.it),http://dati.culturaitalia.it/,LOD平台,Italian Ministry,24.7K事件,意大利,CC0+BY,5
+50,IRIS Consortium,https://www.iris-database.it/,库联合体,Italian Consortium,多库联合,意大利艺术,混合,5
+51,Bildarchiv Foto Marburg,https://www.bildarchiv-marburg.de/,照片档案,University of Marburg,260K+照片,德国艺术,免费,5
+52,Kunstgeschichte online,https://www.kunstgeschichte-online.de/,门户聚合,German Association,门户聚合,德语传统,免费,5
+53,Kubikat - 多语言书目检索,https://www.kubikat.org/,多语言书目,KHI Florence,200万+书目,德意法英,免费,5
+54,Perspective: actualité en histoire de l'art,https://journals.openedition.org/perspective/,学术期刊,OpenEdition,主流期刊,法国艺术,Open Access,5
+55,Institut National d'histoire de l'art (INHA),https://www.inha.fr/,研究所,INHA,项目资源,法国研究,混合,5
+56,Bibliothèque Forney (Paris),https://www.forney.les-arts-decoratifs.fr/,设计艺术库,Paris Museum,10K+设计,法国设计,混合,5
+57,Portail Collections - 法国博物馆,https://www.portail-collections.musees.fr/,博物馆聚合,French Ministry,数百万文物,法国,CC许可,5
+58,PHAROS - Photo Archives,https://pharosartresearch.org/,照片档案,International Consortium,多机构,国际照片,部分,5
+59,Emilia-Romagna Museums API,https://dati.emilia-romagna.it/sparql,地区API,Emilia-Romagna,SPARQL,意大利,开放,5
+60,Polo Museale Fiorentino,https://polofirenzemusei.firenze.it/,美术馆,MiC Florence,10K+记录,意大利文艺,CC0/CC1.0,5
+61,ARCA - Ca'Foscari Institutional Repository,https://arca.unive.it/,机构知识库,Ca' Foscari University,5000+论文,意大利学术,CC许可,6
+62,Phaidra Digital Archive Platform,https://phaidra.uniroma1.it/,数字档案,Ca' Foscari University,数十万对象,数字档案,机构许可,6
+63,Princeton CDH - Humanities Data,https://cdh.princeton.edu/programs/humanities-data-new/,数字人文,Princeton,项目数据,数字人文,项目/开放,6
+64,Yale DHLab,https://github.com/YaleDHLab,DH实验室,Yale,60+项目,数字人文,MIT许可,6
+65,Harvard Art Museums Collections API,https://harvardartmuseums.org/collections/api,馆藏API,Harvard,40K+馆藏,美国美术,需密钥,6
+66,Stanford Cantor Arts Center,https://museum.stanford.edu/,馆藏库,Stanford,45K+,美国艺术,需密钥,6
+67,UC Berkeley Hearst Museum,https://hearstmuseum.berkeley.edu/collection/asia/,馆藏库,UC Berkeley,45K+,美国艺术,需密钥,6
+68,arthistoricum.net@heiDATA,https://www.re3data.org/repository/r3d100013503,数据仓储,University Heidelberg,数百数据集,艺术专题,开放,6
+69,Ad*Access (Duke) - 美国广告档案,http://library.duke.edu/digitalcollections/adaccess,广告档案,Duke University,7000+广告,美国广告,完全开放,6
+70,Visual Media Lab (Duke),https://aahvs.duke.edu/resources,数字图像库,Duke University,110K+图像,全球艺术,免费,6
+71,WikiArt.org,https://www.wikiart.org/,艺术图像库,WikiArt Community,250K+,全球艺术,免费,7
+72,iART - Art-Historical Image Search Engine,(需在论文中查阅具体链接),图像搜索引擎,International Collaboration,图像库,艺术历史,免费,7
+73,Materials In Paintings (MIP),(需在论文中查阅具体链接),绘画标注数据,Delft University,19K绘画,绘画材料,MIT许可,7
+74,ArtBench-10,(需在学术主页查阅),艺术基准,Research Group,60K平衡,艺术风格,CC许可,7
+75,PainterPalette,https://github.com/me9hanics/PainterPalette,综合数据集,Research Collaboration,综合集,艺术,开源,7
+76,Public Domain 12M,(HuggingFace或官方项目页),公开域数据,Open Community,12.4M,公开域,CC0,7
+77,APDDv2,(arXiv论文附录),美学数据集,Research Group,扩展,绘画美学,CC许可,7
+78,The Met Dataset,(GitHub或论文页),识别基准,The Met,224K+类,艺术品,开放,7
+79,Wired! Lab (Duke),https://dahvc.org/,DH实验室,Duke University,研究项目,数字艺术,开放,7
+80,Victoria & Albert Museum API,https://www.vam.ac.uk/collections,馆藏API,Victoria & Albert Museum,50K+,英国,网页浏览,8
