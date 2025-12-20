@@ -79,3 +79,26 @@
 78,The Met Dataset,(GitHub或论文页),识别基准,The Met,224K+类,艺术品,开放,7
 79,Wired! Lab (Duke),https://dahvc.org/,DH实验室,Duke University,研究项目,数字艺术,开放,7
 80,Victoria & Albert Museum API,https://www.vam.ac.uk/collections,馆藏API,Victoria & Albert Museum,50K+,英国,网页浏览,8
+81,Library of Congress (LOC),https://www.loc.gov/,综合图书馆,US Congress,数百万,全球/中国古籍,免费/API,1
+82,Princeton Art Museum,https://artmuseum.princeton.edu/collections,馆藏库,Princeton,大量宋元画,中国书画,免费/OA,8
+83,Princeton East Asian Library (Gest),https://library.princeton.edu/eastasian/digital-collections,古籍库,Princeton,珍稀善本,古籍插图,开放,8
+84,Yale University Art Gallery (YUAG),https://artgallery.yale.edu/collection/search,馆藏库,Yale,高清图像,中国艺术,CC0/OA,8
+85,Beinecke Library (Yale),https://beinecke.library.yale.edu/digital-collections,手稿库,Yale,珍稀手稿,明清插图,开放,8
+86,ColBase (Japan National Institutes),https://colbase.nich.go.jp/,国家级联录,Nich (Japan),4大国立博物馆,中国古画(梁楷等),开放/免费,9
+87,Institute for Advanced Studies on Asia (UTokyo),http://www.ioc.u-tokyo.ac.jp/,研究机构库,U Tokyo,详细档案,中国绘画,免费,9
+88,Kyoto U Institute for Research in Humanities,https://www.zinbun.kyoto-u.ac.jp/,研究机构库,Kyoto U,石刻拓本,画像石/汉籍,开放,9
+89,China Biographical Database (CBDB),https://projects.iq.harvard.edu/cbdb,传记数据库,Harvard/Academia Sinica,420K+人物,历代人物社会关系,开放/API,9
+90,Berlin State Museums (SMB-digital),http://www.smb-digital.de/,馆藏库,SMB (Germany),吐鲁番文物,西域/唐代人物,免费,8
+91,Museum of East Asian Art Cologne,https://mok-collection.de/,馆藏库,Cologne Museum,佛教卷轴,道释人物,免费,8
+92,The Hermitage Museum,https://www.hermitagemuseum.org/,馆藏库,Hermitage (Russia),黑水城文物,西夏/元代人物,免费,8
+93,Museum of Far Eastern Antiquities (Stockholm),http://samlingar.varldskulturmuseerna.se/,馆藏库,Världskulturmuseerna,安特生收藏,史前/早期人物,免费,8
+94,National Gallery Prague,http://sbirky.ngprague.cz/en/,馆藏库,NG Prague,中欧藏品,明清肖像,免费,8
+95,International Dunhuang Project (IDP),http://idp.bl.uk/,综合档案,British Library et al.,敦煌经卷,供养人/壁画,开放,9
+96,Digital Dunhuang,https://www.e-dunhuang.com/,数字石窟,Dunhuang Academy,高清洞窟,壁画人物细节,部分免费,9
+97,Huntington Archive,https://huntingtonarchive.org/,图像档案,U Chicago/Ohio State,流失壁画,佛教人物,开放,8
+98,IHP Rubbing Database (Academia Sinica),http://rub.ihp.sinica.edu.tw/,拓片库,Academia Sinica,画像石/砖,汉代人物线条,需注册/开放,9
+99,Academia Sinica Digital Resources,http://digiarch.sinica.edu.tw/,综合门户,Academia Sinica,多库整合,台湾学术资源,开放,9
+100,Artron (雅昌),https://www.artron.net/,商业数据库,Artron,海量拍卖图,明清/近现代,付费/会员,7
+101,Sotheby's Archive,https://www.sothebys.com/en/results,拍卖档案,Sotheby's,流传有序拍品,古代书画,免费查询,7
+102,Christie's Archive,https://www.christies.com/en/results,拍卖档案,Christie's,流传有序拍品,古代书画,免费查询,7
+103,Heidelberg Research Architecture,https://hra.uni-heidelberg.de/,学术库,U Heidelberg,亚洲艺术项目,石刻/杂志,开放,8
