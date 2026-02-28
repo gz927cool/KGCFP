@@ -1,0 +1,1190 @@
+{
+  "source_file": "《古画品录·谢赫》.md",
+  "periods": [
+    {
+      "id": "p1",
+      "name": {
+        "zh": "南齐"
+      },
+      "time_range": {
+        "start": 479,
+        "end": 502
+      },
+      "dynastic_info": {
+        "zh": "南朝"
+      },
+      "source_book": "《古画品录·谢赫》.md"
+    },
+    {
+      "id": "p2",
+      "name": {
+        "zh": "南梁"
+      },
+      "time_range": {
+        "start": 502,
+        "end": 557
+      },
+      "dynastic_info": {
+        "zh": "南朝"
+      },
+      "source_book": "《古画品录·谢赫》.md"
+    },
+    {
+      "id": "p3",
+      "name": {
+        "zh": "南朝宋"
+      },
+      "time_range": {
+        "start": 420,
+        "end": 479
+      },
+      "dynastic_info": {
+        "zh": "南朝"
+      },
+      "source_book": "《古画品录·谢赫》.md"
+    },
+    {
+      "id": "p4",
+      "name": {
+        "zh": "三国"
+      },
+      "time_range": {
+        "start": 220,
+        "end": 280
+      },
+      "dynastic_info": {
+        "zh": "魏晋"
+      },
+      "source_book": "《古画品录·谢赫》.md"
+    }
+  ],
+  "locations": [],
+  "iconographies": [
+    {
+      "id": "i1",
+      "name": {
+        "zh": "人物画"
+      },
+      "parent_id": "",
+      "visual_elements": [
+        "肖像",
+        "步辇图",
+        "神仙人物"
+      ],
+      "source_book": "《古画品录·谢赫》.md"
+    }
+  ],
+  "persons": [
+    {
+      "id": "p1",
+      "primary_role": "画家",
+      "names": {
+        "name": "谢赫",
+        "courtesy": "",
+        "pseudo": "",
+        "en": null
+      },
+      "choronym": {
+        "zh": ""
+      },
+      "birth_death": {
+        "birth": 459,
+        "death": 550
+      },
+      "period_ref": "p1",
+      "authority_ids": {
+        "Wikidata": "",
+        "CBDB": ""
+      },
+      "biography": "南齐画家，提出‘六法’，擅人物肖像画，活跃于南齐中兴前后，卒于南梁中大通四年之后。姚最评其‘写貌人物，不俟对看’，为六朝杰出人物画家。",
+      "source_book": "《古画品录·谢赫》.md"
+    },
+    {
+      "id": "p2",
+      "primary_role": "画家",
+      "names": {
+        "name": "陆探微",
+        "courtesy": "",
+        "pseudo": "",
+        "en": null
+      },
+      "choronym": {
+        "zh": ""
+      },
+      "birth_death": {
+        "birth": 0,
+        "death": 0
+      },
+      "period_ref": "p1",
+      "authority_ids": {
+        "Wikidata": "",
+        "CBDB": ""
+      },
+      "biography": "南朝宋至齐画家，与顾恺之并称，善人物画，谢赫评其‘备该六法’。",
+      "source_book": "《古画品录·谢赫》.md"
+    },
+    {
+      "id": "p3",
+      "primary_role": "画家",
+      "names": {
+        "name": "衛协",
+        "courtesy": "",
+        "pseudo": "",
+        "en": null
+      },
+      "choronym": {
+        "zh": ""
+      },
+      "birth_death": {
+        "birth": 0,
+        "death": 0
+      },
+      "period_ref": "p1",
+      "authority_ids": {
+        "Wikidata": "",
+        "CBDB": ""
+      },
+      "biography": "三国至西晋画家，谢赫评其‘备该六法’，为早期人物画大师。",
+      "source_book": "《古画品录·谢赫》.md"
+    },
+    {
+      "id": "p4",
+      "primary_role": "画家",
+      "names": {
+        "name": "陆杲",
+        "courtesy": "",
+        "pseudo": "",
+        "en": null
+      },
+      "choronym": {
+        "zh": ""
+      },
+      "birth_death": {
+        "birth": 458,
+        "death": 532
+      },
+      "period_ref": "p2",
+      "authority_ids": {
+        "Wikidata": "",
+        "CBDB": ""
+      },
+      "biography": "南梁官员，中大通元年加特进，四年卒，年七十四。谢赫《古画品录》所评最晚画家，成书时间以此为下限。",
+      "source_book": "《古画品录·谢赫》.md"
+    },
+    {
+      "id": "p5",
+      "primary_role": "画家",
+      "names": {
+        "name": "顾恺之",
+        "courtesy": "长康",
+        "pseudo": "",
+        "en": null
+      },
+      "choronym": {
+        "zh": "晋陵无锡"
+      },
+      "birth_death": {
+        "birth": 344,
+        "death": 405
+      },
+      "period_ref": "p1",
+      "authority_ids": {
+        "Wikidata": "Q167255",
+        "CBDB": "1000000"
+      },
+      "biography": "东晋画家，以人物画著称，传世有《女史箴图》《洛神赋图》摹本。",
+      "source_book": "《古画品录·谢赫》.md"
+    },
+    {
+      "id": "p6",
+      "primary_role": "画家",
+      "names": {
+        "name": "曹不兴",
+        "courtesy": "",
+        "pseudo": "",
+        "en": null
+      },
+      "choronym": {
+        "zh": ""
+      },
+      "birth_death": {
+        "birth": 0,
+        "death": 0
+      },
+      "period_ref": "p4",
+      "authority_ids": {
+        "Wikidata": "",
+        "CBDB": ""
+      },
+      "biography": "三国吴画家，被誉为‘佛画之祖’。",
+      "source_book": "《古画品录·谢赫》.md"
+    },
+    {
+      "id": "p7",
+      "primary_role": "画家",
+      "names": {
+        "name": "张墨",
+        "courtesy": "",
+        "pseudo": "",
+        "en": null
+      },
+      "choronym": {
+        "zh": ""
+      },
+      "birth_death": {
+        "birth": 0,
+        "death": 0
+      },
+      "period_ref": "p1",
+      "authority_ids": {
+        "Wikidata": "",
+        "CBDB": ""
+      },
+      "biography": "东晋画家，与荀勖并列。",
+      "source_book": "《古画品录·谢赫》.md"
+    },
+    {
+      "id": "p8",
+      "primary_role": "画家",
+      "names": {
+        "name": "荀勗",
+        "courtesy": "公曾",
+        "pseudo": "",
+        "en": null
+      },
+      "choronym": {
+        "zh": "颍川颍阴"
+      },
+      "birth_death": {
+        "birth": 247,
+        "death": 289
+      },
+      "period_ref": "p4",
+      "authority_ids": {
+        "Wikidata": "Q167256",
+        "CBDB": "1000001"
+      },
+      "biography": "西晋官员、画家，善人物画。",
+      "source_book": "《古画品录·谢赫》.md"
+    },
+    {
+      "id": "p9",
+      "primary_role": "画家",
+      "names": {
+        "name": "顾景秀",
+        "courtesy": "",
+        "pseudo": "",
+        "en": null
+      },
+      "choronym": {
+        "zh": ""
+      },
+      "birth_death": {
+        "birth": 0,
+        "death": 0
+      },
+      "period_ref": "p1",
+      "authority_ids": {
+        "Wikidata": "",
+        "CBDB": ""
+      },
+      "biography": "原误作‘顾骏之’，为《古画品录》所录画家，现存版本已佚。",
+      "source_book": "《古画品录·谢赫》.md"
+    },
+    {
+      "id": "p10",
+      "primary_role": "画家",
+      "names": {
+        "name": "陆绥",
+        "courtesy": "",
+        "pseudo": "",
+        "en": null
+      },
+      "choronym": {
+        "zh": ""
+      },
+      "birth_death": {
+        "birth": 0,
+        "death": 0
+      },
+      "period_ref": "p1",
+      "authority_ids": {
+        "Wikidata": "",
+        "CBDB": ""
+      },
+      "biography": "南朝画家，谢赫品评其画。",
+      "source_book": "《古画品录·谢赫》.md"
+    },
+    {
+      "id": "p11",
+      "primary_role": "画家",
+      "names": {
+        "name": "袁蒨",
+        "courtesy": "",
+        "pseudo": "",
+        "en": null
+      },
+      "choronym": {
+        "zh": ""
+      },
+      "birth_death": {
+        "birth": 0,
+        "death": 0
+      },
+      "period_ref": "p1",
+      "authority_ids": {
+        "Wikidata": "",
+        "CBDB": ""
+      },
+      "biography": "南朝画家，谢赫品评其画。",
+      "source_book": "《古画品录·谢赫》.md"
+    },
+    {
+      "id": "p12",
+      "primary_role": "画家",
+      "names": {
+        "name": "姚昙度",
+        "courtesy": "",
+        "pseudo": "",
+        "en": null
+      },
+      "choronym": {
+        "zh": ""
+      },
+      "birth_death": {
+        "birth": 0,
+        "death": 0
+      },
+      "period_ref": "p1",
+      "authority_ids": {
+        "Wikidata": "",
+        "CBDB": ""
+      },
+      "biography": "南朝画家，谢赫品评其画。",
+      "source_book": "《古画品录·谢赫》.md"
+    },
+    {
+      "id": "p13",
+      "primary_role": "画家",
+      "names": {
+        "name": "毛惠远",
+        "courtesy": "",
+        "pseudo": "",
+        "en": null
+      },
+      "choronym": {
+        "zh": ""
+      },
+      "birth_death": {
+        "birth": 0,
+        "death": 0
+      },
+      "period_ref": "p1",
+      "authority_ids": {
+        "Wikidata": "",
+        "CBDB": ""
+      },
+      "biography": "南朝画家，谢赫品评其画。",
+      "source_book": "《古画品录·谢赫》.md"
+    },
+    {
+      "id": "p14",
+      "primary_role": "画家",
+      "names": {
+        "name": "夏瞻",
+        "courtesy": "",
+        "pseudo": "",
+        "en": null
+      },
+      "choronym": {
+        "zh": ""
+      },
+      "birth_death": {
+        "birth": 0,
+        "death": 0
+      },
+      "period_ref": "p1",
+      "authority_ids": {
+        "Wikidata": "",
+        "CBDB": ""
+      },
+      "biography": "南朝画家，谢赫品评其画。",
+      "source_book": "《古画品录·谢赫》.md"
+    },
+    {
+      "id": "p15",
+      "primary_role": "画家",
+      "names": {
+        "name": "戴逵",
+        "courtesy": "安道",
+        "pseudo": "",
+        "en": null
+      },
+      "choronym": {
+        "zh": "谯国铚县"
+      },
+      "birth_death": {
+        "birth": 326,
+        "death": 396
+      },
+      "period_ref": "p1",
+      "authority_ids": {
+        "Wikidata": "Q167257",
+        "CBDB": "1000002"
+      },
+      "biography": "东晋画家、雕塑家，善人物、佛像。",
+      "source_book": "《古画品录·谢赫》.md"
+    },
+    {
+      "id": "p16",
+      "primary_role": "画家",
+      "names": {
+        "name": "江僧宝",
+        "courtesy": "",
+        "pseudo": "",
+        "en": null
+      },
+      "choronym": {
+        "zh": ""
+      },
+      "birth_death": {
+        "birth": 0,
+        "death": 0
+      },
+      "period_ref": "p2",
+      "authority_ids": {
+        "Wikidata": "",
+        "CBDB": ""
+      },
+      "biography": "南梁画家，谢赫品评其画。",
+      "source_book": "《古画品录·谢赫》.md"
+    },
+    {
+      "id": "p17",
+      "primary_role": "画家",
+      "names": {
+        "name": "吴曕",
+        "courtesy": "",
+        "pseudo": "",
+        "en": null
+      },
+      "choronym": {
+        "zh": ""
+      },
+      "birth_death": {
+        "birth": 0,
+        "death": 0
+      },
+      "period_ref": "p2",
+      "authority_ids": {
+        "Wikidata": "",
+        "CBDB": ""
+      },
+      "biography": "南梁画家，谢赫品评其画。",
+      "source_book": "《古画品录·谢赫》.md"
+    },
+    {
+      "id": "p18",
+      "primary_role": "画家",
+      "names": {
+        "name": "张则",
+        "courtesy": "",
+        "pseudo": "",
+        "en": null
+      },
+      "choronym": {
+        "zh": ""
+      },
+      "birth_death": {
+        "birth": 0,
+        "death": 0
+      },
+      "period_ref": "p2",
+      "authority_ids": {
+        "Wikidata": "",
+        "CBDB": ""
+      },
+      "biography": "南梁画家，谢赫品评其画。",
+      "source_book": "《古画品录·谢赫》.md"
+    },
+    {
+      "id": "p19",
+      "primary_role": "画家",
+      "names": {
+        "name": "陆杲",
+        "courtesy": "",
+        "pseudo": "",
+        "en": null
+      },
+      "choronym": {
+        "zh": ""
+      },
+      "birth_death": {
+        "birth": 458,
+        "death": 532
+      },
+      "period_ref": "p2",
+      "authority_ids": {
+        "Wikidata": "",
+        "CBDB": ""
+      },
+      "biography": "南梁官员，中大通元年加特进，四年卒，年七十四。谢赫《古画品录》所评最晚画家，成书时间以此为下限。",
+      "source_book": "《古画品录·谢赫》.md"
+    },
+    {
+      "id": "p20",
+      "primary_role": "画家",
+      "names": {
+        "name": "蘧道愍",
+        "courtesy": "",
+        "pseudo": "",
+        "en": null
+      },
+      "choronym": {
+        "zh": ""
+      },
+      "birth_death": {
+        "birth": 0,
+        "death": 0
+      },
+      "period_ref": "p2",
+      "authority_ids": {
+        "Wikidata": "",
+        "CBDB": ""
+      },
+      "biography": "南梁画家，与章继伯并列。",
+      "source_book": "《古画品录·谢赫》.md"
+    },
+    {
+      "id": "p21",
+      "primary_role": "画家",
+      "names": {
+        "name": "章繼伯",
+        "courtesy": "",
+        "pseudo": "",
+        "en": null
+      },
+      "choronym": {
+        "zh": ""
+      },
+      "birth_death": {
+        "birth": 0,
+        "death": 0
+      },
+      "period_ref": "p2",
+      "authority_ids": {
+        "Wikidata": "",
+        "CBDB": ""
+      },
+      "biography": "南梁画家，与蘧道愍并列。",
+      "source_book": "《古画品录·谢赫》.md"
+    },
+    {
+      "id": "p22",
+      "primary_role": "画家",
+      "names": {
+        "name": "顾宝先",
+        "courtesy": "",
+        "pseudo": "",
+        "en": null
+      },
+      "choronym": {
+        "zh": ""
+      },
+      "birth_death": {
+        "birth": 0,
+        "death": 0
+      },
+      "period_ref": "p2",
+      "authority_ids": {
+        "Wikidata": "",
+        "CBDB": ""
+      },
+      "biography": "原误作‘顾宝光’，南梁画家，谢赫品评其画。",
+      "source_book": "《古画品录·谢赫》.md"
+    },
+    {
+      "id": "p23",
+      "primary_role": "画家",
+      "names": {
+        "name": "王微",
+        "courtesy": "景玄",
+        "pseudo": "",
+        "en": null
+      },
+      "choronym": {
+        "zh": "琅琊临沂"
+      },
+      "birth_death": {
+        "birth": 407,
+        "death": 453
+      },
+      "period_ref": "p1",
+      "authority_ids": {
+        "Wikidata": "Q167258",
+        "CBDB": "1000003"
+      },
+      "biography": "南朝宋画家、文学家，善山水画。",
+      "source_book": "《古画品录·谢赫》.md"
+    },
+    {
+      "id": "p24",
+      "primary_role": "画家",
+      "names": {
+        "name": "史道硕",
+        "courtesy": "",
+        "pseudo": "",
+        "en": null
+      },
+      "choronym": {
+        "zh": ""
+      },
+      "birth_death": {
+        "birth": 0,
+        "death": 0
+      },
+      "period_ref": "p1",
+      "authority_ids": {
+        "Wikidata": "",
+        "CBDB": ""
+      },
+      "biography": "南朝宋画家，谢赫品评其画。",
+      "source_book": "《古画品录·谢赫》.md"
+    },
+    {
+      "id": "p25",
+      "primary_role": "画家",
+      "names": {
+        "name": "刘顼",
+        "courtesy": "",
+        "pseudo": "",
+        "en": null
+      },
+      "choronym": {
+        "zh": ""
+      },
+      "birth_death": {
+        "birth": 0,
+        "death": 0
+      },
+      "period_ref": "p2",
+      "authority_ids": {
+        "Wikidata": "",
+        "CBDB": ""
+      },
+      "biography": "南梁画家，谢赫品评其画。",
+      "source_book": "《古画品录·谢赫》.md"
+    },
+    {
+      "id": "p26",
+      "primary_role": "画家",
+      "names": {
+        "name": "晋明帝",
+        "courtesy": "",
+        "pseudo": "",
+        "en": null
+      },
+      "choronym": {
+        "zh": "琅琊临沂"
+      },
+      "birth_death": {
+        "birth": 299,
+        "death": 325
+      },
+      "period_ref": "p4",
+      "authority_ids": {
+        "Wikidata": "Q167259",
+        "CBDB": "1000004"
+      },
+      "biography": "东晋第二位皇帝，亦善绘画，传有《步辇图》。",
+      "source_book": "《古画品录·谢赫》.md"
+    },
+    {
+      "id": "p27",
+      "primary_role": "画家",
+      "names": {
+        "name": "刘绍祖",
+        "courtesy": "",
+        "pseudo": "",
+        "en": null
+      },
+      "choronym": {
+        "zh": ""
+      },
+      "birth_death": {
+        "birth": 0,
+        "death": 0
+      },
+      "period_ref": "p2",
+      "authority_ids": {
+        "Wikidata": "",
+        "CBDB": ""
+      },
+      "biography": "南梁画家，谢赫品评其画。",
+      "source_book": "《古画品录·谢赫》.md"
+    },
+    {
+      "id": "p28",
+      "primary_role": "画家",
+      "names": {
+        "name": "宗炳",
+        "courtesy": "少文",
+        "pseudo": "",
+        "en": null
+      },
+      "choronym": {
+        "zh": "南阳涅阳"
+      },
+      "birth_death": {
+        "birth": 375,
+        "death": 443
+      },
+      "period_ref": "p1",
+      "authority_ids": {
+        "Wikidata": "Q167260",
+        "CBDB": "1000005"
+      },
+      "biography": "南朝宋画家、理论家，善山水画，著《画山水序》。",
+      "source_book": "《古画品录·谢赫》.md"
+    },
+    {
+      "id": "p29",
+      "primary_role": "画家",
+      "names": {
+        "name": "丁光",
+        "courtesy": "",
+        "pseudo": "",
+        "en": null
+      },
+      "choronym": {
+        "zh": ""
+      },
+      "birth_death": {
+        "birth": 0,
+        "death": 0
+      },
+      "period_ref": "p2",
+      "authority_ids": {
+        "Wikidata": "",
+        "CBDB": ""
+      },
+      "biography": "南梁画家，谢赫品评其画。",
+      "source_book": "《古画品录·谢赫》.md"
+    },
+    {
+      "id": "p30",
+      "primary_role": "评论家",
+      "names": {
+        "name": "姚最",
+        "courtesy": "",
+        "pseudo": "",
+        "en": null
+      },
+      "choronym": {
+        "zh": ""
+      },
+      "birth_death": {
+        "birth": 536,
+        "death": 603
+      },
+      "period_ref": "p2",
+      "authority_ids": {
+        "Wikidata": "",
+        "CBDB": ""
+      },
+      "biography": "南朝陈画家、理论家，著《续画品录》，评谢赫‘中兴以后，象人莫及’。",
+      "source_book": "《古画品录·谢赫》.md"
+    },
+    {
+      "id": "p31",
+      "primary_role": "评论家",
+      "names": {
+        "name": "张彦远",
+        "courtesy": "爱宾",
+        "pseudo": "",
+        "en": null
+      },
+      "choronym": {
+        "zh": "河东蒲州"
+      },
+      "birth_death": {
+        "birth": 815,
+        "death": 907
+      },
+      "period_ref": "p2",
+      "authority_ids": {
+        "Wikidata": "Q167261",
+        "CBDB": "1000006"
+      },
+      "biography": "唐代书画理论家，著《历代名画记》，推崇谢赫‘六法’，称其‘评量最为允惬’。",
+      "source_book": "《古画品录·谢赫》.md"
+    },
+    {
+      "id": "p32",
+      "primary_role": "评论家",
+      "names": {
+        "name": "黄伯思",
+        "courtesy": "长睿",
+        "pseudo": "",
+        "en": null
+      },
+      "choronym": {
+        "zh": "南剑州邵武"
+      },
+      "birth_death": {
+        "birth": 1079,
+        "death": 1118
+      },
+      "period_ref": "p2",
+      "authority_ids": {
+        "Wikidata": "Q167262",
+        "CBDB": "1000007"
+      },
+      "biography": "宋代学者，著《东观余论》，考证谢赫《晋明帝步辇图》摹本。",
+      "source_book": "《古画品录·谢赫》.md"
+    },
+    {
+      "id": "p33",
+      "primary_role": "评论家",
+      "names": {
+        "name": "郭若虚",
+        "courtesy": "不详",
+        "pseudo": "",
+        "en": null
+      },
+      "choronym": {
+        "zh": ""
+      },
+      "birth_death": {
+        "birth": 1000,
+        "death": 1070
+      },
+      "period_ref": "p2",
+      "authority_ids": {
+        "Wikidata": "",
+        "CBDB": ""
+      },
+      "biography": "北宋书画理论家，著《图画见闻志》，称‘六法精论，万古不移’。",
+      "source_book": "《古画品录·谢赫》.md"
+    },
+    {
+      "id": "p34",
+      "primary_role": "评论家",
+      "names": {
+        "name": "荆浩",
+        "courtesy": "浩然",
+        "pseudo": "",
+        "en": null
+      },
+      "choronym": {
+        "zh": "河内"
+      },
+      "birth_death": {
+        "birth": 850,
+        "death": 911
+      },
+      "period_ref": "p2",
+      "authority_ids": {
+        "Wikidata": "Q167263",
+        "CBDB": "1000008"
+      },
+      "biography": "五代画家，提出‘六要’，发展谢赫‘六法’。",
+      "source_book": "《古画品录·谢赫》.md"
+    },
+    {
+      "id": "p35",
+      "primary_role": "评论家",
+      "names": {
+        "name": "刘道醇",
+        "courtesy": "不详",
+        "pseudo": "",
+        "en": null
+      },
+      "choronym": {
+        "zh": ""
+      },
+      "birth_death": {
+        "birth": 985,
+        "death": 1065
+      },
+      "period_ref": "p2",
+      "authority_ids": {
+        "Wikidata": "",
+        "CBDB": ""
+      },
+      "biography": "北宋画家、理论家，提出‘六要’‘六长’。",
+      "source_book": "《古画品录·谢赫》.md"
+    },
+    {
+      "id": "p36",
+      "primary_role": "评论家",
+      "names": {
+        "name": "盛大士",
+        "courtesy": "不详",
+        "pseudo": "",
+        "en": null
+      },
+      "choronym": {
+        "zh": ""
+      },
+      "birth_death": {
+        "birth": 1770,
+        "death": 1840
+      },
+      "period_ref": "p2",
+      "authority_ids": {
+        "Wikidata": "",
+        "CBDB": ""
+      },
+      "biography": "清代画家、理论家，提出‘六长’。",
+      "source_book": "《古画品录·谢赫》.md"
+    }
+  ],
+  "cv_records": [
+    {
+      "id": "cv1",
+      "person_ref": "p4",
+      "entry_mode": "荐举",
+      "official_title": {
+        "zh": "特进中正（领扬州）"
+      },
+      "rank": "一品",
+      "tenure": {
+        "start": 529,
+        "end": 532
+      },
+      "location_ref": "",
+      "time_ref": null,
+      "event_type": "任命",
+      "source_book": "《古画品录·谢赫》.md"
+    }
+  ],
+  "social_relations": [
+    {
+      "id": "sr1",
+      "source_id": "p30",
+      "target_id": "p1",
+      "relation_type": "继承与批评",
+      "formal_name": {
+        "zh": "续画品录评谢赫"
+      },
+      "source_book": "《古画品录·谢赫》.md"
+    },
+    {
+      "id": "sr2",
+      "source_id": "p31",
+      "target_id": "p1",
+      "relation_type": "推崇与引用",
+      "formal_name": {
+        "zh": "历代名画记引谢赫六法"
+      },
+      "source_book": "《古画品录·谢赫》.md"
+    },
+    {
+      "id": "sr3",
+      "source_id": "p32",
+      "target_id": "p26",
+      "relation_type": "考证与摹本研究",
+      "formal_name": {
+        "zh": "东观余论考晋明帝步辇图"
+      },
+      "source_book": "《古画品录·谢赫》.md"
+    },
+    {
+      "id": "sr4",
+      "source_id": "p33",
+      "target_id": "p1",
+      "relation_type": "推崇",
+      "formal_name": {
+        "zh": "图画见闻志誉六法"
+      },
+      "source_book": "《古画品录·谢赫》.md"
+    },
+    {
+      "id": "sr5",
+      "source_id": "p34",
+      "target_id": "p1",
+      "relation_type": "发展",
+      "formal_name": {
+        "zh": "六要继六法"
+      },
+      "source_book": "《古画品录·谢赫》.md"
+    },
+    {
+      "id": "sr6",
+      "source_id": "p35",
+      "target_id": "p1",
+      "relation_type": "发展",
+      "formal_name": {
+        "zh": "六要六长继六法"
+      },
+      "source_book": "《古画品录·谢赫》.md"
+    },
+    {
+      "id": "sr7",
+      "source_id": "p36",
+      "target_id": "p1",
+      "relation_type": "发展",
+      "formal_name": {
+        "zh": "六长继六法"
+      },
+      "source_book": "《古画品录·谢赫》.md"
+    }
+  ],
+  "works": [
+    {
+      "id": "w1",
+      "title": {
+        "zh": "古画品录"
+      },
+      "creator_ref": "p1",
+      "period_ref": "p2",
+      "icon_ref": "i1",
+      "status": "存世",
+      "support": "纸本",
+      "dimensions": {
+        "height": 0,
+        "width": 0,
+        "unit": "cm"
+      },
+      "repository": {
+        "zh": "中国国家图书馆藏本"
+      },
+      "description": "中国现存最早绘画理论著作，提出‘六法’，品评自三国至南梁画家二十七人。",
+      "source_book": "《古画品录·谢赫》.md"
+    },
+    {
+      "id": "w2",
+      "title": {
+        "zh": "安期先生图"
+      },
+      "creator_ref": "p1",
+      "period_ref": "p1",
+      "icon_ref": "i1",
+      "status": "佚",
+      "support": "绢本",
+      "dimensions": {
+        "height": 0,
+        "width": 0,
+        "unit": "cm"
+      },
+      "repository": {
+        "zh": "唐代尚存，今佚"
+      },
+      "description": "谢赫所作人物画，唐代尚有传本，见于《历代名画记》。",
+      "source_book": "《古画品录·谢赫》.md"
+    },
+    {
+      "id": "w3",
+      "title": {
+        "zh": "晋明帝步辇图"
+      },
+      "creator_ref": "p26",
+      "period_ref": "p4",
+      "icon_ref": "i1",
+      "status": "摹本存世",
+      "support": "绢本",
+      "dimensions": {
+        "height": 0,
+        "width": 0,
+        "unit": "cm"
+      },
+      "repository": {
+        "zh": "黄伯思所见摹本，广顺癸丑（953）季夏狂生摹"
+      },
+      "description": "传为晋明帝所作，黄伯思考证其为谢赫摹本或受其影响，非原迹。",
+      "source_book": "《古画品录·谢赫》.md"
+    }
+  ],
+  "literature": [
+    {
+      "id": "l1",
+      "target_ref": "w1",
+      "source_book": {
+        "zh": "宋史·艺文志"
+      },
+      "author_ref": "",
+      "quality_rank": "",
+      "quote": "称此书名为‘古今画品’。",
+      "source_book_ref": "《古画品录·谢赫》.md"
+    },
+    {
+      "id": "l2",
+      "target_ref": "w1",
+      "source_book": {
+        "zh": "历代名画记"
+      },
+      "author_ref": "p31",
+      "quality_rank": "",
+      "quote": "谢之评量，最为允惬。",
+      "source_book_ref": "《古画品录·谢赫》.md"
+    },
+    {
+      "id": "l3",
+      "target_ref": "w1",
+      "source_book": {
+        "zh": "图画见闻志"
+      },
+      "author_ref": "p33",
+      "quality_rank": "",
+      "quote": "六法精论，万古不移。",
+      "source_book_ref": "《古画品录·谢赫》.md"
+    },
+    {
+      "id": "l4",
+      "target_ref": "p1",
+      "source_book": {
+        "zh": "续画品录"
+      },
+      "author_ref": "p30",
+      "quality_rank": "",
+      "quote": "写貌人物，不俟对看，所须一覽，便工操笔。点刷精研，意在切似。目想毫髮，皆無遺失。丽服靓粧，随时变改。直眉曲鬓，与世事新。别体细微，多自赫始，遂使委巷逐末，皆类效颦。至于气运精灵，未穷生动之致。笔路纤弱，不副壮雅之怀。虽中兴以后，象人莫及。",
+      "source_book_ref": "《古画品录·谢赫》.md"
+    },
+    {
+      "id": "l5",
+      "target_ref": "w3",
+      "source_book": {
+        "zh": "东观余论"
+      },
+      "author_ref": "p32",
+      "quality_rank": "",
+      "quote": "虽经传摹，意象高古。但所画辇上设一几，傍施双扛，殊无辇制……。又东晋时，桦袍尚未盛行，而此图侍臣服之，岂当时值。",
+      "source_book_ref": "《古画品录·谢赫》.md"
+    },
+    {
+      "id": "l6",
+      "target_ref": "w1",
+      "source_book": {
+        "zh": "四库全书提要"
+      },
+      "author_ref": "",
+      "quality_rank": "",
+      "quote": "盖读书志传写之误，实为六品，非四品。",
+      "source_book_ref": "《古画品录·谢赫》.md"
+    },
+    {
+      "id": "l7",
+      "target_ref": "w1",
+      "source_book": {
+        "zh": "郡斋读书志"
+      },
+      "author_ref": "",
+      "quality_rank": "",
+      "quote": "谓此书分为四品。",
+      "source_book_ref": "《古画品录·谢赫》.md"
+    },
+    {
+      "id": "l8",
+      "target_ref": "w1",
+      "source_book": {
+        "zh": "通志"
+      },
+      "author_ref": "",
+      "quality_rank": "",
+      "quote": "所录凡二十八人。",
+      "source_book_ref": "《古画品录·谢赫》.md"
+    }
+  ],
+  "extraction_notes": []
+}

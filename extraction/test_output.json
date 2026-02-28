@@ -1,0 +1,845 @@
+{
+  "source_file": "《古画品录·谢赫》.md",
+  "persons": [
+    {
+      "id": "謝赫",
+      "names": {
+        "zh_hans": "谢赫",
+        "zh_hant": "謝赫",
+        "pinyin": "Xiè Hè",
+        "en": null
+      },
+      "aliases": [],
+      "dynasty": "南齐",
+      "role": "Painter",
+      "biography": "南齐时期画家，提出绘画‘六法’理论，擅长人物肖像画，创‘别体’风格，影响后世。据姚最评语，其艺术成就在南齐中兴前已达高峰，卒年应在梁中大通四年（532年）之后。生卒年不详，推测生于宋孝武帝大明年间（约459年）。",
+      "birth_year": null,
+      "death_year": null,
+      "source_book": "《古画品录·谢赫》.md",
+      "external_ids": {}
+    },
+    {
+      "id": "陸探微",
+      "names": {
+        "zh_hans": "陆探微",
+        "zh_hant": "陸探微",
+        "pinyin": "Lù Tàn Wēi",
+        "en": null
+      },
+      "aliases": [],
+      "dynasty": "南朝",
+      "role": "Painter",
+      "biography": "与卫协并称，精通‘六法’，为谢赫《古画品录》中评价最高的画家之一，活跃于南朝宋齐之际。",
+      "birth_year": null,
+      "death_year": null,
+      "source_book": "《古画品录·谢赫》.md",
+      "external_ids": {}
+    },
+    {
+      "id": "衛協",
+      "names": {
+        "zh_hans": "卫协",
+        "zh_hant": "衛協",
+        "pinyin": "Wèi Xié",
+        "en": null
+      },
+      "aliases": [],
+      "dynasty": "三国",
+      "role": "Painter",
+      "biography": "三国时期画家，与陆探微并列，为谢赫所称‘备该六法’者，被尊为早期人物画大师。",
+      "birth_year": null,
+      "death_year": null,
+      "source_book": "《古画品录·谢赫》.md",
+      "external_ids": {}
+    },
+    {
+      "id": "曹不興",
+      "names": {
+        "zh_hans": "曹不兴",
+        "zh_hant": "曹不興",
+        "pinyin": "Cáo Bù Xīng",
+        "en": null
+      },
+      "aliases": [],
+      "dynasty": "三国",
+      "role": "Painter",
+      "biography": "三国吴国画家，谢赫《古画品录》所列早期人物画家之一。",
+      "birth_year": null,
+      "death_year": null,
+      "source_book": "《古画品录·谢赫》.md",
+      "external_ids": {}
+    },
+    {
+      "id": "張墨",
+      "names": {
+        "zh_hans": "张墨",
+        "zh_hant": "張墨",
+        "pinyin": "Zhāng Mò",
+        "en": null
+      },
+      "aliases": [],
+      "dynasty": "东晋",
+      "role": "Painter",
+      "biography": "与荀勖并列，为谢赫所录画家，活跃于东晋时期。",
+      "birth_year": null,
+      "death_year": null,
+      "source_book": "《古画品录·谢赫》.md",
+      "external_ids": {}
+    },
+    {
+      "id": "荀勗",
+      "names": {
+        "zh_hans": "荀勖",
+        "zh_hant": "荀勗",
+        "pinyin": "Xún Xù",
+        "en": null
+      },
+      "aliases": [],
+      "dynasty": "西晋",
+      "role": "Painter",
+      "biography": "与张墨并列，谢赫所录画家，西晋时期人物画家。",
+      "birth_year": null,
+      "death_year": null,
+      "source_book": "《古画品录·谢赫》.md",
+      "external_ids": {}
+    },
+    {
+      "id": "顧景秀",
+      "names": {
+        "zh_hans": "顾景秀",
+        "zh_hant": "顧景秀",
+        "pinyin": "Gù Jǐng Xiù",
+        "en": null
+      },
+      "aliases": [
+        "顾骏之"
+      ],
+      "dynasty": "南朝",
+      "role": "Painter",
+      "biography": "原误作‘顾骏之’，谢赫《古画品录》所录画家，南朝时期人物画家。",
+      "birth_year": null,
+      "death_year": null,
+      "source_book": "《古画品录·谢赫》.md",
+      "external_ids": {}
+    },
+    {
+      "id": "陸綏",
+      "names": {
+        "zh_hans": "陆绥",
+        "zh_hant": "陸綏",
+        "pinyin": "Lù Suí",
+        "en": null
+      },
+      "aliases": [],
+      "dynasty": "南朝",
+      "role": "Painter",
+      "biography": "谢赫《古画品录》所录画家，南朝人物画家。",
+      "birth_year": null,
+      "death_year": null,
+      "source_book": "《古画品录·谢赫》.md",
+      "external_ids": {}
+    },
+    {
+      "id": "袁蒨",
+      "names": {
+        "zh_hans": "袁蒨",
+        "zh_hant": "袁蒨",
+        "pinyin": "Yuán Qiàn",
+        "en": null
+      },
+      "aliases": [],
+      "dynasty": "南朝",
+      "role": "Painter",
+      "biography": "谢赫《古画品录》所录画家，南朝人物画家。",
+      "birth_year": null,
+      "death_year": null,
+      "source_book": "《古画品录·谢赫》.md",
+      "external_ids": {}
+    },
+    {
+      "id": "姚曇度",
+      "names": {
+        "zh_hans": "姚昙度",
+        "zh_hant": "姚曇度",
+        "pinyin": "Yáo Tán Dù",
+        "en": null
+      },
+      "aliases": [],
+      "dynasty": "南朝",
+      "role": "Painter",
+      "biography": "谢赫《古画品录》所录画家，南朝人物画家。",
+      "birth_year": null,
+      "death_year": null,
+      "source_book": "《古画品录·谢赫》.md",
+      "external_ids": {}
+    },
+    {
+      "id": "顧愷之",
+      "names": {
+        "zh_hans": "顾恺之",
+        "zh_hant": "顧愷之",
+        "pinyin": "Gù Kǎi Zhī",
+        "en": null
+      },
+      "aliases": [],
+      "dynasty": "东晋",
+      "role": "Painter",
+      "biography": "东晋著名人物画家，谢赫《古画品录》所录重要画家，以‘传神写照’著称。",
+      "birth_year": null,
+      "death_year": null,
+      "source_book": "《古画品录·谢赫》.md",
+      "external_ids": {}
+    },
+    {
+      "id": "毛惠遠",
+      "names": {
+        "zh_hans": "毛惠远",
+        "zh_hant": "毛惠遠",
+        "pinyin": "Máo Huì Yuǎn",
+        "en": null
+      },
+      "aliases": [],
+      "dynasty": "南朝",
+      "role": "Painter",
+      "biography": "谢赫《古画品录》所录画家，南朝人物画家。",
+      "birth_year": null,
+      "death_year": null,
+      "source_book": "《古画品录·谢赫》.md",
+      "external_ids": {}
+    },
+    {
+      "id": "夏瞻",
+      "names": {
+        "zh_hans": "夏瞻",
+        "zh_hant": "夏瞻",
+        "pinyin": "Xià Zhān",
+        "en": null
+      },
+      "aliases": [],
+      "dynasty": "南朝",
+      "role": "Painter",
+      "biography": "谢赫《古画品录》所录画家，南朝人物画家。",
+      "birth_year": null,
+      "death_year": null,
+      "source_book": "《古画品录·谢赫》.md",
+      "external_ids": {}
+    },
+    {
+      "id": "戴逵",
+      "names": {
+        "zh_hans": "戴逵",
+        "zh_hant": "戴逵",
+        "pinyin": "Dài Kuí",
+        "en": null
+      },
+      "aliases": [],
+      "dynasty": "东晋",
+      "role": "Painter",
+      "biography": "东晋画家、雕塑家，谢赫所录重要人物画家，以人物画与佛像著称。",
+      "birth_year": null,
+      "death_year": null,
+      "source_book": "《古画品录·谢赫》.md",
+      "external_ids": {}
+    },
+    {
+      "id": "江僧寶",
+      "names": {
+        "zh_hans": "江僧宝",
+        "zh_hant": "江僧寶",
+        "pinyin": "Jiāng Sēng Bǎo",
+        "en": null
+      },
+      "aliases": [],
+      "dynasty": "南朝",
+      "role": "Painter",
+      "biography": "谢赫《古画品录》所录画家，与谢赫同时代，活跃于南朝梁之前。",
+      "birth_year": null,
+      "death_year": null,
+      "source_book": "《古画品录·谢赫》.md",
+      "external_ids": {}
+    },
+    {
+      "id": "吳曕",
+      "names": {
+        "zh_hans": "吴曕",
+        "zh_hant": "吳曕",
+        "pinyin": "Wú Yǎn",
+        "en": null
+      },
+      "aliases": [],
+      "dynasty": "南朝",
+      "role": "Painter",
+      "biography": "谢赫《古画品录》所录画家，南朝人物画家。",
+      "birth_year": null,
+      "death_year": null,
+      "source_book": "《古画品录·谢赫》.md",
+      "external_ids": {}
+    },
+    {
+      "id": "張則",
+      "names": {
+        "zh_hans": "张则",
+        "zh_hant": "張則",
+        "pinyin": "Zhāng Zé",
+        "en": null
+      },
+      "aliases": [],
+      "dynasty": "南朝",
+      "role": "Painter",
+      "biography": "谢赫《古画品录》所录画家，南朝人物画家。",
+      "birth_year": null,
+      "death_year": null,
+      "source_book": "《古画品录·谢赫》.md",
+      "external_ids": {}
+    },
+    {
+      "id": "陸杲",
+      "names": {
+        "zh_hans": "陆杲",
+        "zh_hant": "陸杲",
+        "pinyin": "Lù Gǎo",
+        "en": null
+      },
+      "aliases": [],
+      "dynasty": "南梁",
+      "role": "Painter",
+      "biography": "南梁画家，谢赫《古画品录》所录最晚画家，卒于中大通四年（532年），谢赫成书在其后。",
+      "birth_year": null,
+      "death_year": null,
+      "source_book": "《古画品录·谢赫》.md",
+      "external_ids": {}
+    },
+    {
+      "id": "蘧道愍",
+      "names": {
+        "zh_hans": "蘧道愍",
+        "zh_hant": "蘧道愍",
+        "pinyin": "Qú Dào Mǐn",
+        "en": null
+      },
+      "aliases": [],
+      "dynasty": "南朝",
+      "role": "Painter",
+      "biography": "与章继伯并列，谢赫所录画家，南朝人物画家。",
+      "birth_year": null,
+      "death_year": null,
+      "source_book": "《古画品录·谢赫》.md",
+      "external_ids": {}
+    },
+    {
+      "id": "章繼伯",
+      "names": {
+        "zh_hans": "章继伯",
+        "zh_hant": "章繼伯",
+        "pinyin": "Zhāng Jì Bó",
+        "en": null
+      },
+      "aliases": [],
+      "dynasty": "南朝",
+      "role": "Painter",
+      "biography": "与蘧道愍并列，谢赫所录画家，南朝人物画家。",
+      "birth_year": null,
+      "death_year": null,
+      "source_book": "《古画品录·谢赫》.md",
+      "external_ids": {}
+    },
+    {
+      "id": "顧寶光",
+      "names": {
+        "zh_hans": "顾宝光",
+        "zh_hant": "顧寶光",
+        "pinyin": "Gù Bǎo Guāng",
+        "en": null
+      },
+      "aliases": [
+        "顾宝先"
+      ],
+      "dynasty": "南朝",
+      "role": "Painter",
+      "biography": "原误作‘顾宝先’，谢赫《古画品录》所录画家，南朝人物画家。",
+      "birth_year": null,
+      "death_year": null,
+      "source_book": "《古画品录·谢赫》.md",
+      "external_ids": {}
+    },
+    {
+      "id": "王微",
+      "names": {
+        "zh_hans": "王微",
+        "zh_hant": "王微",
+        "pinyin": "Wáng Wēi",
+        "en": null
+      },
+      "aliases": [],
+      "dynasty": "南朝",
+      "role": "Painter",
+      "biography": "与史道硕并列，谢赫所录画家，南朝人物画家。",
+      "birth_year": null,
+      "death_year": null,
+      "source_book": "《古画品录·谢赫》.md",
+      "external_ids": {}
+    },
+    {
+      "id": "史道碩",
+      "names": {
+        "zh_hans": "史道硕",
+        "zh_hant": "史道碩",
+        "pinyin": "Shǐ Dào Shuò",
+        "en": null
+      },
+      "aliases": [],
+      "dynasty": "南朝",
+      "role": "Painter",
+      "biography": "与王微并列，谢赫所录画家，南朝人物画家。",
+      "birth_year": null,
+      "death_year": null,
+      "source_book": "《古画品录·谢赫》.md",
+      "external_ids": {}
+    },
+    {
+      "id": "劉頊",
+      "names": {
+        "zh_hans": "刘顼",
+        "zh_hant": "劉頊",
+        "pinyin": "Liú Xū",
+        "en": null
+      },
+      "aliases": [],
+      "dynasty": "南朝",
+      "role": "Painter",
+      "biography": "谢赫《古画品录》所录画家，南朝人物画家。",
+      "birth_year": null,
+      "death_year": null,
+      "source_book": "《古画品录·谢赫》.md",
+      "external_ids": {}
+    },
+    {
+      "id": "晉明帝",
+      "names": {
+        "zh_hans": "晋明帝",
+        "zh_hant": "晉明帝",
+        "pinyin": "Jìn Míng Dì",
+        "en": null
+      },
+      "aliases": [],
+      "dynasty": "东晋",
+      "role": "Painter",
+      "biography": "东晋皇帝，亦擅绘画，谢赫《古画品录》所录画家，传有《步辇图》。",
+      "birth_year": null,
+      "death_year": null,
+      "source_book": "《古画品录·谢赫》.md",
+      "external_ids": {}
+    },
+    {
+      "id": "劉紹祖",
+      "names": {
+        "zh_hans": "刘绍祖",
+        "zh_hant": "劉紹祖",
+        "pinyin": "Liú Shào Zǔ",
+        "en": null
+      },
+      "aliases": [
+        "刘胤祖"
+      ],
+      "dynasty": "南朝",
+      "role": "Painter",
+      "biography": "原误作‘刘胤祖’，谢赫《古画品录》所录画家，南朝人物画家。",
+      "birth_year": null,
+      "death_year": null,
+      "source_book": "《古画品录·谢赫》.md",
+      "external_ids": {}
+    },
+    {
+      "id": "宗炳",
+      "names": {
+        "zh_hans": "宗炳",
+        "zh_hant": "宗炳",
+        "pinyin": "Zōng Bǐng",
+        "en": null
+      },
+      "aliases": [
+        "宋炳"
+      ],
+      "dynasty": "南朝",
+      "role": "Painter",
+      "biography": "原误作‘宋炳’，南朝著名山水画家与画论家，谢赫所录画家。",
+      "birth_year": null,
+      "death_year": null,
+      "source_book": "《古画品录·谢赫》.md",
+      "external_ids": {}
+    },
+    {
+      "id": "丁光",
+      "names": {
+        "zh_hans": "丁光",
+        "zh_hant": "丁光",
+        "pinyin": "Dīng Guāng",
+        "en": null
+      },
+      "aliases": [],
+      "dynasty": "南朝",
+      "role": "Painter",
+      "biography": "谢赫《古画品录》所录画家，与谢赫同时代，活跃于南朝梁之前。",
+      "birth_year": null,
+      "death_year": null,
+      "source_book": "《古画品录·谢赫》.md",
+      "external_ids": {}
+    },
+    {
+      "id": "姚最",
+      "names": {
+        "zh_hans": "姚最",
+        "zh_hant": "姚最",
+        "pinyin": "Yáo Zuì",
+        "en": null
+      },
+      "aliases": [],
+      "dynasty": "南陈",
+      "role": "Art Critic",
+      "biography": "南陈画家与画论家，著《续画品录》，评论谢赫画艺，称其‘中兴以后，象人莫及’，延续并发展谢赫‘六法’理论。",
+      "birth_year": null,
+      "death_year": null,
+      "source_book": "《古画品录·谢赫》.md",
+      "external_ids": {}
+    },
+    {
+      "id": "張彥遠",
+      "names": {
+        "zh_hans": "张彦远",
+        "zh_hant": "張彥遠",
+        "pinyin": "Zhāng Yàn Yuǎn",
+        "en": null
+      },
+      "aliases": [],
+      "dynasty": "唐代",
+      "role": "Art Critic",
+      "biography": "唐代著名美术史家，著《历代名画记》，高度推崇谢赫‘六法’，并逐条引证《古画品录》画家，对后世画论影响深远。",
+      "birth_year": null,
+      "death_year": null,
+      "source_book": "《古画品录·谢赫》.md",
+      "external_ids": {}
+    },
+    {
+      "id": "宋子房",
+      "names": {
+        "zh_hans": "宋子房",
+        "zh_hant": "宋子房",
+        "pinyin": "Sòng Zǐ Fáng",
+        "en": null
+      },
+      "aliases": [],
+      "dynasty": "宋代",
+      "role": "Art Critic",
+      "biography": "宋代画论家，著《六法六论》，继承并阐释谢赫‘六法’理论。",
+      "birth_year": null,
+      "death_year": null,
+      "source_book": "《古画品录·谢赫》.md",
+      "external_ids": {}
+    },
+    {
+      "id": "郭若虛",
+      "names": {
+        "zh_hans": "郭若虚",
+        "zh_hant": "郭若虛",
+        "pinyin": "Guō Ruò Xū",
+        "en": null
+      },
+      "aliases": [],
+      "dynasty": "宋代",
+      "role": "Art Critic",
+      "biography": "宋代画论家，著《图画见闻志》，称谢赫‘六法’为‘万古不移’之精论。",
+      "birth_year": null,
+      "death_year": null,
+      "source_book": "《古画品录·谢赫》.md",
+      "external_ids": {}
+    },
+    {
+      "id": "荊浩",
+      "names": {
+        "zh_hans": "荆浩",
+        "zh_hant": "荊浩",
+        "pinyin": "Jīng Hào",
+        "en": null
+      },
+      "aliases": [],
+      "dynasty": "五代",
+      "role": "Painter",
+      "biography": "五代画家，提出‘六要’，发展谢赫‘六法’理论。",
+      "birth_year": null,
+      "death_year": null,
+      "source_book": "《古画品录·谢赫》.md",
+      "external_ids": {}
+    },
+    {
+      "id": "劉道醇",
+      "names": {
+        "zh_hans": "刘道醇",
+        "zh_hant": "劉道醇",
+        "pinyin": "Liú Dào Chún",
+        "en": null
+      },
+      "aliases": [],
+      "dynasty": "宋代",
+      "role": "Art Critic",
+      "biography": "宋代画论家，提出‘六要’、‘六长’，延续谢赫‘六法’体系。",
+      "birth_year": null,
+      "death_year": null,
+      "source_book": "《古画品录·谢赫》.md",
+      "external_ids": {}
+    },
+    {
+      "id": "盛大士",
+      "names": {
+        "zh_hans": "盛大士",
+        "zh_hant": "盛大士",
+        "pinyin": "Shèng Dà Shì",
+        "en": null
+      },
+      "aliases": [],
+      "dynasty": "清代",
+      "role": "Art Critic",
+      "biography": "清代画论家，提出‘六长’，在谢赫‘六法’基础上进一步发展绘画批评理论。",
+      "birth_year": null,
+      "death_year": null,
+      "source_book": "《古画品录·谢赫》.md",
+      "external_ids": {}
+    },
+    {
+      "id": "黃伯思",
+      "names": {
+        "zh_hans": "黄伯思",
+        "zh_hant": "黃伯思",
+        "pinyin": "Huáng Bó Sī",
+        "en": null
+      },
+      "aliases": [],
+      "dynasty": "宋代",
+      "role": "Art Critic",
+      "biography": "宋代学者，著《东观余论》，考证谢赫所绘《晋明帝步辇图》摹本，认为其‘意象高古’，虽非真迹，但反映谢赫原作风貌。",
+      "birth_year": null,
+      "death_year": null,
+      "source_book": "《古画品录·谢赫》.md",
+      "external_ids": {}
+    }
+  ],
+  "works": [
+    {
+      "id": "古畫品錄",
+      "title": "古画品录",
+      "title_zh": null,
+      "artist_id": "謝赫",
+      "dynasty": "南梁",
+      "status": "Extant",
+      "format": "Treatise",
+      "description": "中国现存最早的绘画品评著作，由谢赫撰，提出‘六法’理论，品评自三国至南梁画家二十七人，为后世绘画理论奠基之作。",
+      "source_book": "《古画品录·谢赫》.md",
+      "external_ids": {}
+    },
+    {
+      "id": "安期先生圖",
+      "title": "安期先生图",
+      "title_zh": null,
+      "artist_id": "謝赫",
+      "dynasty": "南齐",
+      "status": "Lost",
+      "format": "Unknown",
+      "description": "谢赫所绘作品，唐代尚有传本，后失传。",
+      "source_book": "《古画品录·谢赫》.md",
+      "external_ids": {}
+    },
+    {
+      "id": "晉明帝步輦圖",
+      "title": "晋明帝步辇图",
+      "title_zh": null,
+      "artist_id": "謝赫",
+      "dynasty": "南齐",
+      "status": "Copy",
+      "format": "Handscroll",
+      "description": "据黄伯思考证，谢赫曾绘此图，北宋广顺癸丑（953年）有狂生摹本，虽非真迹，但保留原作意象，黄氏评其‘意象高古’。",
+      "source_book": "《古画品录·谢赫》.md",
+      "external_ids": {}
+    },
+    {
+      "id": "續畫品錄",
+      "title": "续画品录",
+      "title_zh": null,
+      "artist_id": "姚最",
+      "dynasty": "南陈",
+      "status": "Extant",
+      "format": "Treatise",
+      "description": "姚最所撰，延续谢赫《古画品录》体例，评论谢赫画艺，称其‘中兴以后，象人莫及’，是研究谢赫艺术的重要文献。",
+      "source_book": "《古画品录·谢赫》.md",
+      "external_ids": {}
+    },
+    {
+      "id": "歷代名畫記",
+      "title": "历代名画记",
+      "title_zh": null,
+      "artist_id": "張彥遠",
+      "dynasty": "唐代",
+      "status": "Extant",
+      "format": "Treatise",
+      "description": "张彦远所撰中国第一部系统绘画通史，大量引用谢赫《古画品录》内容，称其‘评量最为允惬’，确立‘六法’为绘画批评核心。",
+      "source_book": "《古画品录·谢赫》.md",
+      "external_ids": {}
+    },
+    {
+      "id": "六法六論",
+      "title": "六法六论",
+      "title_zh": null,
+      "artist_id": "宋子房",
+      "dynasty": "宋代",
+      "status": "Lost",
+      "format": "Treatise",
+      "description": "宋子房所著，专论谢赫‘六法’，已佚，仅存书名于文献记载。",
+      "source_book": "《古画品录·谢赫》.md",
+      "external_ids": {}
+    },
+    {
+      "id": "圖畫見聞志",
+      "title": "图画见闻志",
+      "title_zh": null,
+      "artist_id": "郭若虛",
+      "dynasty": "宋代",
+      "status": "Extant",
+      "format": "Treatise",
+      "description": "郭若虚所撰，称谢赫‘六法’为‘万古不移’，是宋代重要绘画理论著作。",
+      "source_book": "《古画品录·谢赫》.md",
+      "external_ids": {}
+    },
+    {
+      "id": "東觀餘論",
+      "title": "东观余论",
+      "title_zh": null,
+      "artist_id": "黃伯思",
+      "dynasty": "宋代",
+      "status": "Extant",
+      "format": "Treatise",
+      "description": "黄伯思所撰，考证谢赫《晋明帝步辇图》摹本，提出其非真迹但保留古意，是研究谢赫作品流传的重要文献。",
+      "source_book": "《古画品录·谢赫》.md",
+      "external_ids": {}
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "謝赫",
+      "target_id": "陸探微",
+      "relationship_type": "COLLEAGUE",
+      "description": "谢赫在《古画品录》中将陆探微列为最高等级画家，二人同属南朝绘画体系，谢赫对其艺术成就高度推崇。",
+      "source_book": "《古画品录·谢赫》.md"
+    },
+    {
+      "source_id": "謝赫",
+      "target_id": "衛協",
+      "relationship_type": "COLLEAGUE",
+      "description": "谢赫在《古画品录》中将卫协与陆探微并列，视为唯一‘备该六法’者，二人均为早期人物画大师，谢赫对其艺术有继承性评价。",
+      "source_book": "《古画品录·谢赫》.md"
+    },
+    {
+      "source_id": "謝赫",
+      "target_id": "顧愷之",
+      "relationship_type": "COLLEAGUE",
+      "description": "谢赫在《古画品录》中品评顾恺之，将其列为重要画家，二人同属人物画传统，谢赫理论受顾恺之‘传神’观念影响。",
+      "source_book": "《古画品录·谢赫》.md"
+    },
+    {
+      "source_id": "謝赫",
+      "target_id": "陸杲",
+      "relationship_type": "COLLEAGUE",
+      "description": "谢赫在《古画品录》中品评陆杲，陆杲卒于中大通四年（532年），谢赫成书在其后，二人同属南梁时期画家。",
+      "source_book": "《古画品录·谢赫》.md"
+    },
+    {
+      "source_id": "謝赫",
+      "target_id": "姚最",
+      "relationship_type": "TEACHER_OF",
+      "description": "姚最在《续画品录》中评价谢赫，称其‘中兴以后，象人莫及’，虽非直接师徒，但姚最继承并发展谢赫理论，可视作学术传承。",
+      "source_book": "《古画品录·谢赫》.md"
+    },
+    {
+      "source_id": "謝赫",
+      "target_id": "張彥遠",
+      "relationship_type": "INFLUENCED_BY",
+      "description": "张彦远在《历代名画记》中高度推崇谢赫‘六法’，称其‘评量最为允惬’，谢赫理论通过张彦远得以系统化传播。",
+      "source_book": "《古画品录·谢赫》.md"
+    },
+    {
+      "source_id": "謝赫",
+      "target_id": "宋子房",
+      "relationship_type": "INFLUENCED_BY",
+      "description": "宋子房著《六法六论》，直接继承谢赫‘六法’理论，谢赫为其理论源头。",
+      "source_book": "《古画品录·谢赫》.md"
+    },
+    {
+      "source_id": "謝赫",
+      "target_id": "郭若虛",
+      "relationship_type": "INFLUENCED_BY",
+      "description": "郭若虚在《图画见闻志》中称谢赫‘六法’为‘万古不移’，谢赫理论成为其批评体系核心。",
+      "source_book": "《古画品录·谢赫》.md"
+    },
+    {
+      "source_id": "謝赫",
+      "target_id": "荊浩",
+      "relationship_type": "INFLUENCED_BY",
+      "description": "荆浩提出‘六要’，在谢赫‘六法’基础上发展，谢赫为其理论先驱。",
+      "source_book": "《古画品录·谢赫》.md"
+    },
+    {
+      "source_id": "謝赫",
+      "target_id": "劉道醇",
+      "relationship_type": "INFLUENCED_BY",
+      "description": "刘道醇提出‘六要’、‘六长’，延续谢赫‘六法’体系，谢赫为其理论基础。",
+      "source_book": "《古画品录·谢赫》.md"
+    },
+    {
+      "source_id": "謝赫",
+      "target_id": "盛大士",
+      "relationship_type": "INFLUENCED_BY",
+      "description": "盛大士提出‘六长’，在谢赫‘六法’框架内发展清代画论，谢赫为其理论源头。",
+      "source_book": "《古画品录·谢赫》.md"
+    },
+    {
+      "source_id": "黃伯思",
+      "target_id": "晉明帝步輦圖",
+      "relationship_type": "CREATED",
+      "description": "黄伯思考证谢赫曾绘《晋明帝步辇图》，虽现存为北宋摹本，但认定其源于谢赫原作。",
+      "source_book": "《古画品录·谢赫》.md"
+    },
+    {
+      "source_id": "謝赫",
+      "target_id": "晉明帝步輦圖",
+      "relationship_type": "CREATED",
+      "description": "谢赫据传创作《晋明帝步辇图》，为人物画代表作，虽原作已佚，但经黄伯思考证其存在。",
+      "source_book": "《古画品录·谢赫》.md"
+    },
+    {
+      "source_id": "謝赫",
+      "target_id": "安期先生圖",
+      "relationship_type": "CREATED",
+      "description": "谢赫创作《安期先生图》，唐代尚有传本，后失传。",
+      "source_book": "《古画品录·谢赫》.md"
+    },
+    {
+      "source_id": "姚最",
+      "target_id": "古畫品錄",
+      "relationship_type": "COMMENTED_ON",
+      "description": "姚最著《续画品录》，对谢赫《古画品录》进行评论与补充，是最早对谢赫理论的系统回应。",
+      "source_book": "《古画品录·谢赫》.md"
+    },
+    {
+      "source_id": "張彥遠",
+      "target_id": "古畫品錄",
+      "relationship_type": "COMMENTED_ON",
+      "description": "张彦远在《历代名画记》中逐条引用谢赫《古画品录》内容，对其进行分析与推崇，确立其经典地位。",
+      "source_book": "《古画品录·谢赫》.md"
+    },
+    {
+      "source_id": "黃伯思",
+      "target_id": "晉明帝步輦圖",
+      "relationship_type": "COLLEAGUE",
+      "description": "黄伯思考证谢赫所绘《晋明帝步辇图》摹本，属于同一艺术传统，为谢赫作品的后世研究者。",
+      "source_book": "《古画品录·谢赫》.md"
+    }
+  ],
+  "extraction_notes": []
+}

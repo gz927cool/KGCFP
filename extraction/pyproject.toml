@@ -1,0 +1,16 @@
+[project]
+name = "kgcfp-extraction"
+version = "0.1.0"
+description = "Data extraction module for Chinese Figure Painting Knowledge Graph"
+requires-python = ">=3.10"
+dependencies = [
+    "langchain>=1.0.0",
+    "langchain-openai>=0.2.0",
+    "pydantic>=2.0.0",
+    "python-dotenv>=1.0.0",
+    "tiktoken>=0.7.0",
+    "tenacity>=8.0.0",
+]
+
+[tool.uv]
+dev-dependencies = []
